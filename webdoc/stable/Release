@@ -1,0 +1,20 @@
+Origin: WebDoc
+Label: WebDoc
+Suite: stable
+Codename: stable
+Date: Wed, 16 Sep 2026 08:04:32 UTC
+Architectures: amd64
+Components: main
+Description: WebDoc APT Repository
+MD5Sum:
+ 31a05d06aeba060ad3c440e82fbc22aa 1104 main/binary-amd64/Packages
+ 416831e2c8dc544e4698bed27b8f60d2 697 main/binary-amd64/Packages.gz
+ 31a916ecdcb817d3e738d08fb4d781d4 116 main/binary-amd64/Release
+SHA1:
+ b8561a5143e0196a27c941d746e8689c11772756 1104 main/binary-amd64/Packages
+ 91acb51538c0220c17ad20cade3a16ca4315d340 697 main/binary-amd64/Packages.gz
+ 77a47af65f3d163677f88fd127b17cda6b0de927 116 main/binary-amd64/Release
+SHA256:
+ 1fefd41d31d8fd7e9231ad6cea31340360f2845ad4bf933d923753043356c28e 1104 main/binary-amd64/Packages
+ e83628dec2a71414d05f57bf1ba7efda66ff68cb75d5018cd3e35daa4de6ad79 697 main/binary-amd64/Packages.gz
+ 47e1a114df05439290bc5b47a9ce4f17c2c63cbbe1bab31013ed4c26d1199cbd 116 main/binary-amd64/Release

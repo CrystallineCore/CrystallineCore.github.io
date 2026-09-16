@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: WebDoc
+Label: WebDoc
+Suite: stable
+Codename: stable
+Date: Wed, 16 Sep 2026 08:04:32 UTC
+Architectures: amd64
+Components: main
+Description: WebDoc APT Repository
+MD5Sum:
+ 31a05d06aeba060ad3c440e82fbc22aa 1104 main/binary-amd64/Packages
+ 416831e2c8dc544e4698bed27b8f60d2 697 main/binary-amd64/Packages.gz
+ 31a916ecdcb817d3e738d08fb4d781d4 116 main/binary-amd64/Release
+SHA1:
+ b8561a5143e0196a27c941d746e8689c11772756 1104 main/binary-amd64/Packages
+ 91acb51538c0220c17ad20cade3a16ca4315d340 697 main/binary-amd64/Packages.gz
+ 77a47af65f3d163677f88fd127b17cda6b0de927 116 main/binary-amd64/Release
+SHA256:
+ 1fefd41d31d8fd7e9231ad6cea31340360f2845ad4bf933d923753043356c28e 1104 main/binary-amd64/Packages
+ e83628dec2a71414d05f57bf1ba7efda66ff68cb75d5018cd3e35daa4de6ad79 697 main/binary-amd64/Packages.gz
+ 47e1a114df05439290bc5b47a9ce4f17c2c63cbbe1bab31013ed4c26d1199cbd 116 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEF7wWcYMgFLHFKGx8dRWt9PKo1IcFAmqqTZUACgkQdRWt9PKo
+1IehTg//VEK6nycswJSKSZa10kD67LhF667ktXBP2X9ZY5iogR5n+upoLvC7JIbJ
+6M6CZf3kgN7KdRb/ubNuBIl4q2YTn6ilgsAnsnCxZCCI/981rMECxEFdUIym3Oq+
+8skJP4DMJ36mnHfcnU88o+aHLeOznDvwVVcjgpxEym93BCOMtTWe/QLuqG1uC0Sm
+yzz0pwf1OTObsx8n0yYXzZItLsIeVbHH4ojhFs2METhTYyYpQBBpgYg2GExMDBlt
+SM1w1Sv7UOzr6CvNrUh4qjVPUN6AP6/dJNesjNKFMf1BjPZfGQ9Z/bK5wh8HihX5
+pBluB78ERTonCwVYAVeNwoxrfzNTqK4AVeu1AV+n+fQvu3cRWOOHr4AQ+xTb4kRj
+Zc1RgCZKz54lU9N2DzA8jGLW8U8mSCBAikUh5SQJ4MXqiLD3K9KkTaH0TYEp6L9Q
+eSzDS2gTiIky2XtTnhBjacstnNuvdPHYRcmoyO19GNwq0ytvmeDiWozzNeNJcpHZ
+XpvejyOeDw0v0fNc8akJWzuee3uEH1m3EtBf0OeyX5H4taz6iP89qsDPrAvWWJS0
+hyBmLREzOfnr+m3uXbeZttZUGfqd0TxvTReEzkKR/vrC8IEIhwG5Z2VJTNS3+m+Q
+ZoRU5K7KMJ+q9wI139Ze60fIY1xPW8naOFD4VGS0MgHxmAg2S/M=
+=Ly06
+-----END PGP SIGNATURE-----

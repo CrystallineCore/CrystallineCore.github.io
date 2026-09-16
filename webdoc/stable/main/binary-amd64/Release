@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: WebDoc
+Label: WebDoc
+Architecture: amd64
+Description: WebDoc APT Repository

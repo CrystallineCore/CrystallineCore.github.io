@@ -1,0 +1,28 @@
+Package: webdoc
+Version: 1.0.0-1
+Architecture: amd64
+Maintainer: Sivaprasad Murali <sivaprasad.off@gmail.com>
+Installed-Size: 83
+Depends: libc6 (>= 2.34)
+Recommends: xdg-utils
+Homepage: https://github.com/sivaprasad-murali/webdoc
+Priority: optional
+Section: utils
+Filename: pool/main/w/webdoc/webdoc_1.0.0-1_amd64.deb
+Size: 28142
+SHA256: b39d50715641683d25aa7d1091f908b625946dd2e19098486adb06a1bb7a4b66
+SHA1: 596287465088b6732fbdf20162643e056fea059c
+MD5sum: a0e51fc12e487d0507439a38e97f0ab4
+Description: web documents as first-class files for the Linux desktop
+ webdoc makes a .web file an ordinary filesystem object representing a web
+ URL together with a little metadata: an optional browser selection and an
+ optional lock.
+ .
+ A .web file owns all of its own persistent state, so documents can be
+ created anywhere, renamed, moved, copied, version-controlled and deleted
+ with ordinary tools. There is no database, no index and no daemon.
+ .
+ This package provides the web command line tool, its manual page and the
+ desktop MIME integration that lets a file manager open a .web file in a
+ browser.
+
